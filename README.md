@@ -11,4 +11,4 @@ Reuse pattern for creating a DynamoDB Table in AWS.
 
 ## License
 
-[Apache 2](LICENSE)
+[GPLv3](LICENSE)
